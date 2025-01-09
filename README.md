@@ -85,6 +85,9 @@ Free concept files, frequent webinars on Verbal and Quant.
 ### [Kaplan GMAT Blog](https://www.kaptest.com/gmat/blog)
 Sample questions with explanations, strategy tips, and study schedules.
 
+### [GMAT GPT](https://chatgpt.com/g/g-1kJmt2AwM-gmat-tutor)
+GPT trained specifically to study for the gmat, trained on test questions etc.
+
 ---
 
 ## Contributing
